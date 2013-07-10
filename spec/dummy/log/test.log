@@ -1,0 +1,36 @@
+Connecting to database specified by database.yml
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-09 17:38:49 +0200
+Served asset /underscore.js - 404 Not Found (2ms)
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-09 17:38:49 +0200
+Served asset /underscore.js - 404 Not Found (1ms)
+Connecting to database specified by database.yml
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-10 09:45:57 +0200
+Served asset /underscore.js - 404 Not Found (1ms)
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-10 09:45:57 +0200
+Served asset /underscore.js - 404 Not Found (1ms)
+Connecting to database specified by database.yml
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-10 09:51:57 +0200
+Compiled underscore.js  (0ms)  (pid 72467)
+Served asset /underscore.js - 200 OK (10ms)
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-10 09:51:57 +0200
+Served asset /underscore.js - 200 OK (0ms)
+Connecting to database specified by database.yml
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-10 09:52:43 +0200
+Served asset /underscore.js - 200 OK (3ms)
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-10 09:52:43 +0200
+Served asset /underscore.js - 200 OK (0ms)
+Connecting to database specified by database.yml
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-10 09:52:54 +0200
+Served asset /underscore.js - 200 OK (2ms)
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-10 09:52:54 +0200
+Served asset /underscore.js - 200 OK (0ms)
+Connecting to database specified by database.yml
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-10 09:53:01 +0200
+Served asset /underscore.js - 200 OK (2ms)
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-10 09:53:01 +0200
+Served asset /underscore.js - 200 OK (0ms)
+Connecting to database specified by database.yml
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-10 10:19:40 +0200
+Served asset /underscore.js - 200 OK (2ms)
+Started GET "/assets/underscore.js" for 127.0.0.1 at 2013-07-10 10:19:40 +0200
+Served asset /underscore.js - 200 OK (0ms)
