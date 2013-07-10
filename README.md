@@ -26,8 +26,6 @@ Require `underscore.js` in your Javascript manifest (e.g. `application.js`)
 
 See [Underscore.js Documentation](https://github.com/jashkenas/underscore) for full usage instructions.
 
-Some additional text.....
-
 ## Contributing
 
 1. Fork it
