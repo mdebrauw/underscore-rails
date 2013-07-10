@@ -20,7 +20,7 @@ Run 'bundle install'
 
 Require `underscore.js` in your Javascript manifest (e.g. `application.js`)
 
-    //= require underscore.js
+    //= require underscore
 
 ## Usage
 
