@@ -9,7 +9,7 @@ A super simple gem wrapping Underscore.js.
 Load `underscore-rails` in your `Gemfile` as part of the `assets` group
 
     group :assets do
-      gem 'underscore-rails', :git => 'git://, :tag => 'v1.5.1'
+      gem 'underscore-rails', :git => 'git@github.com:mdebrauw/underscore-rails.git', :tag => 'v1.5.1'
     end
 
 **Step 2**
