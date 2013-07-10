@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["mdebrauw@gmail.com"]
   s.summary     = "A super simple gem wrapping Underscore.js."
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails", "~> 3.2.12"
